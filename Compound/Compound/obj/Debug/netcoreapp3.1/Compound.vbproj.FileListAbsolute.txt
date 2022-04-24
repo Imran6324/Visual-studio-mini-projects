@@ -1,0 +1,32 @@
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.vbproj.AssemblyReference.cache
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.Form1.resources
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.vbproj.GenerateResource.cache
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.AssemblyInfoInputs.cache
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.AssemblyInfo.vb
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.vbproj.CoreCompileInputs.cache
+C:\Users\riyan\source\repos\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.exe
+C:\Users\riyan\source\repos\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.deps.json
+C:\Users\riyan\source\repos\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.runtimeconfig.json
+C:\Users\riyan\source\repos\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.runtimeconfig.dev.json
+C:\Users\riyan\source\repos\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.dll
+C:\Users\riyan\source\repos\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.pdb
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.dll
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.pdb
+C:\Users\riyan\source\repos\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.genruntimeconfig.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.exe
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.deps.json
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.runtimeconfig.json
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.runtimeconfig.dev.json
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.dll
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\bin\Debug\netcoreapp3.1\Compound.pdb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.vbproj.AssemblyReference.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.Form1.resources
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.vbproj.GenerateResource.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.AssemblyInfoInputs.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.AssemblyInfo.vb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.vbproj.CoreCompileInputs.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.dll
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.pdb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Compound\Compound\obj\Debug\netcoreapp3.1\Compound.genruntimeconfig.cache

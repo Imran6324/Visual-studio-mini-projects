@@ -1,0 +1,36 @@
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.AssemblyReference.cache
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.Resources.resources
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.GenerateResource.cache
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.CoreCompileInputs.cache
+C:\Users\riyan\source\repos\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\riyan\source\repos\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\riyan\source\repos\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\riyan\source\repos\Calculator2\Calculator2\bin\Debug\Calculator2.xml
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.xml
+C:\Users\riyan\source\repos\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.xml
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.AssemblyReference.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.Resources.resources
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.GenerateResource.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.CoreCompileInputs.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.xml
+C:\Users\Mohammad imran khan\OneDrive\Desktop\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\bin\Debug\Calculator2.xml
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.AssemblyReference.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.Resources.resources
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.GenerateResource.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.vbproj.CoreCompileInputs.cache
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.xml
+C:\Users\Mohammad imran khan\OneDrive\Desktop\Desc\LAB\DAA\My-Programs\visual studio programs\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
